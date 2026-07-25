@@ -1,4 +1,7 @@
 {:company/legal-name "ONEOK, Inc."
  :company/lei "2T3D6M0JSY48PSZI1Q41"
  :company/jurisdiction "US-OK"
- :company/website "https://www.oneok.com"}
+ :company/website "https://www.oneok.com"
+ :company/contact-email "media@oneok.com"
+ :company/contact-email-note "published as a mailto: link on the company's own site (https://www.oneok.com/customers/rpco/contact-us), retrieved 2026-07-25T05:03:01.574Z by scripts/lei-contact-discover.cljs (GET only)"
+ :company/inquiry-form-url "https://www.oneok.com/customers/rpco/contact-us"}
